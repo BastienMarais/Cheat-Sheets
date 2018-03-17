@@ -1,5 +1,6 @@
 # Index
 
+
 ### Shell : 
 
 | Nom      |     Fichier     |	Description |
@@ -7,8 +8,6 @@
 | Windows | [Voir la fiche](pdf/shellwindows.pdf){:target="_blank"} | Les commandes utiles dans la console windows (cmd) |
 | Linux | [Voir la fiche](pdf/linux.pdf){:target="_blank"} | Les commandes utiles dans la console linux |
 | Bash | [Voir la fiche](https://devhints.io/bash){:target="_blank"} | Tout le necessaire a savoir sur les scripts Bash |
-
-
 
 
 ### Programmation : 
@@ -25,7 +24,7 @@
 | Nom      |     Fichier     |	Description |
 | :----- | :----- | :----- |
 | HTML | [Voir la fiche](pdf/shellwindows.pdf){:target="_blank"} | Syntaxe basique du HTML |
-| HTML caractères | [Voir la fiche](pdf/htmlcarac.pdf){:target="_blank"} | Caractère spéciaux en HTML |
+| HTML caractères | [Voir la fiche](pdf/htmlcarac.pdf){:target="_blank"} | Caractères spéciaux en HTML |
 | CSS | [Voir la fiche](https://devhints.io/css){:target="_blank"} | Les bases du CSS |
 | NodeJS | [Voir la fiche](pdf/nodejs.pdf){:target="_blank"} | La base du NodeJS |
 

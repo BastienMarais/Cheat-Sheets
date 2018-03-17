@@ -1,4 +1,4 @@
-# Cheat Sheets - Index
+# Index
 
 ### Shell : 
 
@@ -15,8 +15,7 @@
 
 | Nom      |     Fichier     |	Description |
 | :----- | :----- | :----- |
-| C | [Voir la fiche](pdf/c.pdf){:target="_blank"} | Langage C |
-| C# | [Voir la fiche](pdf/csharp.pdf){:target="_blank"} | Langage C# |
+| C# | [Voir la fiche](pdf/csharp.pdf){:target="_blank"} | Langage C# base |
 | Python | [Voir la fiche](pdf/python3.pdf){:target="_blank"} | Langage Python 3 base |
 | Ruby | [Voir la fiche](pdf/ruby.pdf){:target="_blank"} | Langage Ruby base |
 
@@ -26,6 +25,8 @@
 | Nom      |     Fichier     |	Description |
 | :----- | :----- | :----- |
 | HTML | [Voir la fiche](pdf/shellwindows.pdf){:target="_blank"} | Syntaxe basique du HTML |
+| HTML caractères | [Voir la fiche](pdf/htmlcarac.pdf){:target="_blank"} | Caractère spéciaux en HTML |
+| CSS | [Voir la fiche](https://devhints.io/css){:target="_blank"} | Les bases du CSS |
 | NodeJS | [Voir la fiche](pdf/nodejs.pdf){:target="_blank"} | La base du NodeJS |
 
 ### Base de données :
